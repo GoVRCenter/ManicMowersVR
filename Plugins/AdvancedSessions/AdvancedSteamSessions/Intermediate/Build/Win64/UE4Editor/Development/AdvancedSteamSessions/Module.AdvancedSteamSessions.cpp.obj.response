@@ -24,7 +24,7 @@
 /wd4838
 /we4668
 /I .
-/I "C:\Users\Jonathan\Documents\Unreal Projects\ManicMowersVR\Plugins\AdvancedSessions\AdvancedSteamSessions\Source\AdvancedSteamSessions\Private"
+/I "C:\Users\Justin\Documents\Unreal Projects\ManicMowersVR\Plugins\AdvancedSessions\AdvancedSteamSessions\Source\AdvancedSteamSessions\Private"
 /I ..\Plugins\Online\OnlineSubsystem\Intermediate\Build\Win64\UE4Editor\Inc\OnlineSubsystem
 /I ..\Plugins\Online\OnlineSubsystem
 /I ..\Plugins\Online\OnlineSubsystem\Source
@@ -78,11 +78,11 @@
 /I ..\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils\Classes
 /I ..\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils\Public
 /I ..\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils
-/I "C:\Users\Jonathan\Documents\Unreal Projects\ManicMowersVR\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Inc\AdvancedSteamSessions"
-/I "C:\Users\Jonathan\Documents\Unreal Projects\ManicMowersVR\Plugins\AdvancedSessions\AdvancedSteamSessions\Source"
+/I "C:\Users\Justin\Documents\Unreal Projects\ManicMowersVR\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Inc\AdvancedSteamSessions"
+/I "C:\Users\Justin\Documents\Unreal Projects\ManicMowersVR\Plugins\AdvancedSessions\AdvancedSteamSessions\Source"
 /I ..\Plugins\Online\OnlineSubsystemSteam\Source\Private
-/I "C:\Users\Jonathan\Documents\Unreal Projects\ManicMowersVR\Plugins\AdvancedSessions\AdvancedSteamSessions\Source\AdvancedSteamSessions\Classes"
-/I "C:\Users\Jonathan\Documents\Unreal Projects\ManicMowersVR\Plugins\AdvancedSessions\AdvancedSteamSessions\Source\AdvancedSteamSessions"
+/I "C:\Users\Justin\Documents\Unreal Projects\ManicMowersVR\Plugins\AdvancedSessions\AdvancedSteamSessions\Source\AdvancedSteamSessions\Classes"
+/I "C:\Users\Justin\Documents\Unreal Projects\ManicMowersVR\Plugins\AdvancedSessions\AdvancedSteamSessions\Source\AdvancedSteamSessions"
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\CoreUObject
 /I Runtime\CoreUObject\Public
 /I Runtime\CoreUObject
@@ -423,10 +423,10 @@
 /I ThirdParty
 /I ThirdParty\libSampleRate\Public
 /I ThirdParty\libSampleRate
-/I "C:\Users\Jonathan\Documents\Unreal Projects\ManicMowersVR\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Inc\AdvancedSessions"
-/I "C:\Users\Jonathan\Documents\Unreal Projects\ManicMowersVR\Plugins\AdvancedSessions\AdvancedSessions\Source"
-/I "C:\Users\Jonathan\Documents\Unreal Projects\ManicMowersVR\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes"
-/I "C:\Users\Jonathan\Documents\Unreal Projects\ManicMowersVR\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions"
+/I "C:\Users\Justin\Documents\Unreal Projects\ManicMowersVR\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Inc\AdvancedSessions"
+/I "C:\Users\Justin\Documents\Unreal Projects\ManicMowersVR\Plugins\AdvancedSessions\AdvancedSessions\Source"
+/I "C:\Users\Justin\Documents\Unreal Projects\ManicMowersVR\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes"
+/I "C:\Users\Justin\Documents\Unreal Projects\ManicMowersVR\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions"
 /I ThirdParty\Steamworks\Steamv139\sdk\public
 /I ..\Plugins\Online\OnlineSubsystemSteam\Intermediate\Build\Win64\UE4Editor\Inc\OnlineSubsystemSteam
 /I ..\Plugins\Online\OnlineSubsystemSteam
@@ -435,16 +435,16 @@
 /I ..\Plugins\Online\OnlineSubsystemSteam\Source
 /I "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\INCLUDE"
 /I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\include\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\winrt"
-/FI"C:\Users\Jonathan\Documents\Unreal Projects\ManicMowersVR\Intermediate\Build\Win64\ManicMowersVREditor\Development\Engine\SharedPCH.Engine.h"
-/Yu"C:\Users\Jonathan\Documents\Unreal Projects\ManicMowersVR\Intermediate\Build\Win64\ManicMowersVREditor\Development\Engine\SharedPCH.Engine.h"
-/Fp"C:\Users\Jonathan\Documents\Unreal Projects\ManicMowersVR\Intermediate\Build\Win64\ManicMowersVREditor\Development\Engine\SharedPCH.Engine.h.pch"
-"C:\Users\Jonathan\Documents\Unreal Projects\ManicMowersVR\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\Module.AdvancedSteamSessions.cpp"
-/FI"C:\Users\Jonathan\Documents\Unreal Projects\ManicMowersVR\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\Definitions.AdvancedSteamSessions.h"
-/Fo"C:\Users\Jonathan\Documents\Unreal Projects\ManicMowersVR\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\Module.AdvancedSteamSessions.cpp.obj"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17134.0\ucrt"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17134.0\shared"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17134.0\um"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17134.0\winrt"
+/FI"C:\Users\Justin\Documents\Unreal Projects\ManicMowersVR\Intermediate\Build\Win64\ManicMowersVREditor\Development\Engine\SharedPCH.Engine.h"
+/Yu"C:\Users\Justin\Documents\Unreal Projects\ManicMowersVR\Intermediate\Build\Win64\ManicMowersVREditor\Development\Engine\SharedPCH.Engine.h"
+/Fp"C:\Users\Justin\Documents\Unreal Projects\ManicMowersVR\Intermediate\Build\Win64\ManicMowersVREditor\Development\Engine\SharedPCH.Engine.h.pch"
+"C:\Users\Justin\Documents\Unreal Projects\ManicMowersVR\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\Module.AdvancedSteamSessions.cpp"
+/FI"C:\Users\Justin\Documents\Unreal Projects\ManicMowersVR\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\Definitions.AdvancedSteamSessions.h"
+/Fo"C:\Users\Justin\Documents\Unreal Projects\ManicMowersVR\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\Module.AdvancedSteamSessions.cpp.obj"
 /TP
 /GR-
 /W4
